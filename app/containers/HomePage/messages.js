@@ -13,3 +13,7 @@ export default defineMessages({
     defaultMessage: 'This is the HomePage container!',
   },
 });
+export const messages={
+  firstitle:'Yael Shpitzer',
+  secondtitle:"I'm looking for my first job as a Front End / Full Stack Developer"
+};
